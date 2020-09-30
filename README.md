@@ -1,1 +1,12 @@
-# numero3
+<html>
+<head>
+	<title>holamundo3</title>
+</head>
+<body>
+	<p>Wilson Ivan Gómez Azurdia</p>
+	<p>
+		<a href="tareai.htm" onclick="alert('saludos astronauta'); return false;">Presiona aquí</a>
+	</p>
+	<p>6TO Perito en administración de empresas</p>
+</body>
+</html>
